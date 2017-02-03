@@ -1,0 +1,24 @@
+{
+  "name": "es6-dojo",
+  "version": "1.0.0",
+  "description": "A dojo for ES6 training",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imgovind/es6-dojo.git"
+  },
+  "keywords": [
+    "es6",
+    "dojo",
+    "imgovind"
+  ],
+  "author": "Govindarajan Panneerselvam <imgovind@live.com>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/imgovind/es6-dojo/issues"
+  },
+  "homepage": "https://github.com/imgovind/es6-dojo#readme"
+}
