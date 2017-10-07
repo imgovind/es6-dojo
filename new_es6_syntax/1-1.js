@@ -1,5 +1,9 @@
 'use strict';
 
-console.log(productId);
+// hoisting works with var
+console.log(a);
+var a = 200;
 
-var productId = 200;
+// hoisting does not work with let
+console.log(b)
+let b = 100;
